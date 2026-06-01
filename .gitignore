@@ -6,3 +6,4 @@
 *.webm
 *.mkv
 *.sb-*
+.DS_Store
